@@ -27,6 +27,7 @@ Save order history
 🔹 Order History
 View all orders
 Search by customer name
+
  Advanced Search
 Products
 Search by name
@@ -43,6 +44,7 @@ Age
 🗄 SQL Database
 The Windows Forms version connects to SQL Server using ADO.NET.
 All product, customer, and order data is stored in structured tables.
+
 🧪 Technologies Used
 C#
 .NET / WinForms
